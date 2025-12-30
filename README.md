@@ -1,15 +1,3 @@
-Perfeito 👍
-Abaixo está um **README.md detalhado, profissional e pronto para uso**, cobrindo **os dois scripts Python**:
-
-* `network-diagnostic.py` (host / Linux geral)
-* `diagnostico_rede_k8s.py` (Kubernetes / OpenShift)
-
-O conteúdo já está **formatado em Markdown**, pronto para **download** (basta copiar e salvar como `README.md` no repositório).
-
----
-
-## 📄 `README.md`
-
 ````markdown
 # Diagnóstico Avançado de Rede (Python)
 
