@@ -86,7 +86,7 @@ Ambos os scripts realizam **elevação automática para root** usando `sudo`, ne
 Pacotes recomendados:
 
 ```bash
-apt install -y \
+sudo apt install -y \
   iproute2 iputils-ping dnsutils \
   tcpdump iftop nethogs vnstat \
   mtr lsof jq
