@@ -1,4 +1,3 @@
-````markdown
 # Diagnóstico Avançado de Rede (Python)
 
 Este repositório contém **scripts Python de diagnóstico avançado de rede**, focados em **troubleshooting de conectividade, tráfego e firewall**, com suporte a:
